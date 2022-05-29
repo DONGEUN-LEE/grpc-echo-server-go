@@ -1,0 +1,9 @@
+*
+!/**/
+!*.*
+
+.env
+*.exe
+
+# proto gen files
+*.pb.go
